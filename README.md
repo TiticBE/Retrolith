@@ -63,8 +63,10 @@ The guide covers every step: **[User guide](docs/en/index.md)**.
 
 ## Help and suggestions
 
-- A problem or an idea: open an **[issue](https://github.com/TiticBE/Retrolith/issues)**. If you can, attach the
-  diagnostics ("⋯" menu › "Diagnostics" › "Copy the diagnostics").
+- A question, an idea, a word about Retrolith: write in the
+  **[Discussions](https://github.com/TiticBE/Retrolith/discussions)** (in English or French).
+- Something that does not work: open an **[issue](https://github.com/TiticBE/Retrolith/issues)**. If you can, attach
+  the diagnostics ("⋯" menu › "Diagnostics" › "Copy the diagnostics").
 - Common questions: **[FAQ](docs/en/faq.md)**.
 
 ## License

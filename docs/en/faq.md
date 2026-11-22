@@ -48,3 +48,6 @@ Yes, not at the same time: see the shared data folder in [Data and settings](dat
 **How do I report a problem?**
 "⋯" menu › **Diagnostics** › **Copy the diagnostics**, then open an [issue](https://github.com/TiticBE/Retrolith/issues),
 paste it, and say what you were doing.
+
+**Where can I ask a question or suggest an idea?**
+In the [Discussions](https://github.com/TiticBE/Retrolith/discussions), in English or French.

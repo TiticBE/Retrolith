@@ -49,3 +49,6 @@ Oui, pas en même temps : voir le dossier de données partagé dans [Données et
 **Comment signaler un problème ?**
 Menu « ⋯ » › **Diagnostic** › **Copier le diagnostic**, puis ouvrez un
 [ticket](https://github.com/TiticBE/Retrolith/issues) en le collant, avec ce que vous faisiez.
+
+**Où poser une question ou proposer une idée ?**
+Dans les [Discussions](https://github.com/TiticBE/Retrolith/discussions), en français ou en anglais.

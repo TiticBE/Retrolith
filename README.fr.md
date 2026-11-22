@@ -66,8 +66,10 @@ Le guide détaille chaque étape : **[Guide de l'utilisateur](docs/fr/index.md)*
 
 ## Aide et suggestions
 
-- Un problème, une idée : ouvrez un **[ticket](https://github.com/TiticBE/Retrolith/issues)**. Joignez si possible le
-  diagnostic (menu « ⋯ » › « Diagnostic » › « Copier le diagnostic »).
+- Une question, une idée, un mot sur Retrolith : écrivez dans les
+  **[Discussions](https://github.com/TiticBE/Retrolith/discussions)** (en français ou en anglais).
+- Quelque chose qui ne marche pas : ouvrez un **[ticket](https://github.com/TiticBE/Retrolith/issues)**. Joignez si
+  possible le diagnostic (menu « ⋯ » › « Diagnostic » › « Copier le diagnostic »).
 - Les questions courantes : **[FAQ](docs/fr/faq.md)**.
 
 ## Licence
