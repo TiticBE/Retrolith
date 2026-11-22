@@ -9,6 +9,8 @@ Recalbox, une Batocera, un MiSTer ou dans LaunchBox.
 
 Retrolith est gratuit. Il ne contient et ne télécharge aucun jeu : il gère les copies que vous possédez.
 
+![Retrolith : une collection TOSEC, son arborescence et les jeux d'un DAT](images/main.fr.png)
+
 ## Ce qu'il fait
 
 - **Toutes les sortes de DATs** : TOSEC, No-Intro, Redump (pistes `.cue`/`.bin`, jeux sur plusieurs disques, CHD),
@@ -27,6 +29,13 @@ Retrolith est gratuit. Il ne contient et ne télécharge aucun jeu : il gère le
   disques, médias, BIOS manquants, émulateur par machine ou par jeu ; favoris, statistiques de jeu et sauvegardes
   reviennent dans Retrolith.
 - **Interface en français et en anglais**, sauvegardes de la base, dossier de données partagé entre plusieurs PC.
+
+| | |
+|---|---|
+| ![Grille avec les supports dessinés](images/grid.fr.png) | ![État de toutes les collections](images/collections.fr.png) |
+| **Grille** : jaquettes, ou le support du jeu dessiné par Retrolith | **État de toutes les collections** d'un coup d'œil |
+| ![Synchroniser une Recalbox](images/sync.fr.png) | |
+| **Synchroniser un appareil** : listes, `gamelist.xml`, `.m3u`, BIOS, émulateurs | |
 
 ## Télécharger et installer
 

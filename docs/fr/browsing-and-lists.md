@@ -19,6 +19,8 @@ En grille, les disquettes, faces, cassettes ou disques d'un même jeu tiennent d
 Un dossier qui n'est pas un DAT (« Atari › ST ») montre les titres de tous ses DATs. Au-delà de 100 000 titres, rien
 n'est chargé : choisissez un sous-dossier ou cherchez.
 
+![Grille](../../images/grid.fr.png)
+
 ## Filtres
 
 - **Versions originales seulement** : sans cracks, hacks, trainers, traductions…

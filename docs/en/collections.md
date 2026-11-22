@@ -13,6 +13,8 @@ The collection menu (next to its name) lets you:
 - open the **View by machine…**: every title of a machine, across all collections;
 - create a **New collection…**, rename or remove the current one (removing it deletes none of your files).
 
+![Status of all collections](../../images/collections.en.png)
+
 ## Naming formats
 
 All DAT collections work the same way; only the file naming format differs, recognised on the first import:

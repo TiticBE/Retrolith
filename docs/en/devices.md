@@ -6,6 +6,8 @@ Retrolith copies your games to your devices and keeps track of what it put there
 profiles window: one profile per device, with its folder or network share, the lists to send and its options. The window
 only shows the options that kind of device supports.
 
+![Syncing a Recalbox](../../images/sync.en.png)
+
 ## Common principles
 
 - **Only complete games** from the chosen lists are copied.

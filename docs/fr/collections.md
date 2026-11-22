@@ -14,6 +14,8 @@ appareils. Le menu de la collection (à côté de son nom) permet de :
 - créer une **Nouvelle collection…**, renommer ou retirer la collection affichée (la retirer n'efface aucun de vos
   fichiers).
 
+![État de toutes les collections](../../images/collections.fr.png)
+
 ## Formats des noms
 
 Toutes les collections de DATs marchent de la même façon ; seul change le format des noms de fichiers, reconnu au

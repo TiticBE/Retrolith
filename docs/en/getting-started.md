@@ -53,6 +53,8 @@ them. A network drive is fine; if it drops during an operation, Retrolith waits 
 
 ## First scan
 
+![After a scan: tree with percentages, badges, a DAT's games](../../images/main.en.png)
+
 **Scan the collection** walks the root folder and matches every file against all the DATs. Then:
 
 - the tree shows the percentage of titles owned, by machine or by DAT;

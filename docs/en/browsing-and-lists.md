@@ -19,6 +19,8 @@ missing). A button next to it switches back to one tile per disk.
 A folder that is not a DAT ("Atari › ST") shows the titles of all its DATs. Beyond 100,000 titles nothing is loaded:
 pick a subfolder or search.
 
+![Grid view](../../images/grid.en.png)
+
 ## Filters
 
 - **Original versions only**: no cracks, hacks, trainers, translations…

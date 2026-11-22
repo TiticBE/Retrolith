@@ -9,6 +9,8 @@ LaunchBox.
 
 Retrolith is free. It contains and downloads no games: it manages the copies you own.
 
+![Retrolith: a TOSEC collection, its tree and a DAT's games](images/main.en.png)
+
 ## What it does
 
 - **Every kind of DAT**: TOSEC, No-Intro, Redump (`.cue`/`.bin` tracks, multi-disc games, CHD), MAME and FinalBurn Neo
@@ -25,6 +27,13 @@ Retrolith is free. It contains and downloads no games: it manages the copies you
 - **Sync** with Recalbox, Batocera, MiSTer and LaunchBox: games, `gamelist.xml`, `.m3u` for multi-disc games, media,
   missing BIOS, emulator per machine or per game; favorites, play statistics and save files come back into Retrolith.
 - **English and French interface**, database backups, a data folder shared between several PCs.
+
+| | |
+|---|---|
+| ![Grid view with drawn media](images/grid.en.png) | ![Status of all collections](images/collections.en.png) |
+| **Grid view**: covers, or the game's media drawn by Retrolith | **Status of all collections** at a glance |
+| ![Syncing a Recalbox](images/sync.en.png) | |
+| **Sync a device**: lists, `gamelist.xml`, `.m3u`, BIOS, emulators | |
 
 ## Download and install
 

@@ -53,6 +53,8 @@ rangera. Un lecteur réseau convient ; s'il décroche pendant une opération, Re
 
 ## Premier scan
 
+![Après un scan : arborescence avec les pourcentages, pastilles, jeux d'un DAT](../../images/main.fr.png)
+
 **Scanner la collection** parcourt le dossier racine et rapproche chaque fichier de tous les DATs. Ensuite :
 
 - l'arborescence montre le pourcentage de titres possédés, par machine ou par DAT ;

@@ -6,6 +6,8 @@ Retrolith copie vos jeux sur vos appareils et garde la trace de ce qu'il y a mis
 (barre d'outils) ouvre la fenêtre des profils : un profil par appareil, avec son dossier ou son partage réseau, les
 listes à y envoyer et ses options. La fenêtre n'affiche que les options que ce type d'appareil sait faire.
 
+![Synchroniser une Recalbox](../../images/sync.fr.png)
+
 ## Principes communs
 
 - **Seuls les jeux complets** des listes choisies sont copiés.
